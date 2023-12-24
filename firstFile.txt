@@ -1,7 +1,7 @@
 a1 updated git_1 format patch
 a2 updated git_1 format patch
-a3
-a4
+a3 line from folder2
+a4 line from folder2
 a5
 a6
 a7
